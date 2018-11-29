@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.ocarlsen.app</groupId>
-    <artifactId>jcl-over-slf4j</artifactId>
+    <artifactId>jcl-over-slf4j-logback</artifactId>
     <packaging>jar</packaging>
     <version>1.0-SNAPSHOT</version>
 
